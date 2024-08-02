@@ -1,1 +1,1 @@
-# tasksSolvers
+# Решения задач от leetcode
